@@ -1,0 +1,2 @@
+python ssd_opencv_video.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel --video videos/example_01.mp4 
+
